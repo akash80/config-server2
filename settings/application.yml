@@ -9,3 +9,4 @@ eureka:
     
 allowed:
   referrers: testing 
+  ref: test
